@@ -1,2 +1,2 @@
 # libco-c
-use tencent libco in pure c procdure
+use libco in pure c procdure
